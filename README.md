@@ -1,1 +1,3 @@
-# typescript
+# TYPESCRIPT
+
+Practica TYPESCRIPT
